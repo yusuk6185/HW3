@@ -57,6 +57,7 @@
         <h1>Salary Info</h1>
         <table>
             <tbody>
+                <hr>
                 <tr>
                     <td>Total Hours Worked:</td>
                     <td><%= hoursWorked%></td>

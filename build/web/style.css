@@ -1,0 +1,20 @@
+h1{
+    color: white;
+    font: Gill Sans MT;
+    font-size: 13pt;
+    margin: 5px 10px;
+    text-align: center;
+}
+body{
+    text-align: center;
+    background: #37BEFF;
+    color: white;
+    font-family: Gill Sans MT;
+}
+table{
+    font-size: 10pt;
+    text-align: right;
+    max-width: 500px;
+    padding: 10px 20px;
+    margin: 30px 20px 40px 20px;
+}

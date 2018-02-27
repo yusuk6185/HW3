@@ -11,6 +11,7 @@
         <form name = "SimpleSalaryCalculator" action = "results.jsp" method = "post">
             <table style="overflow-x:">
                 <tbody>
+                    <hr>
                     <tr>
                         <td>Hours Worked:</td>
                         <td><input type ="text" name ="hoursWorked" value ="" size ="50"></td>
